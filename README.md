@@ -1,5 +1,5 @@
 # Quantium Internship Program 
-### This repoository contains my contribution at the virtual internship launched by quantium.  The program contains six main tasks:
+### This repository contains my contribution at the virtual internship launched by quantium.  The program contains six main tasks:
 - Task 1:
 Virtual environnement setup 
 
